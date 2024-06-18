@@ -9,6 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrayan0417&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chandrayan0417&icon=10&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chandrayan0417&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chandrayanf) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ChandrayanRoy) 
